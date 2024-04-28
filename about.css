@@ -16,14 +16,14 @@ html, body {
 .content{
     height: 800px;
     width:100%;
-   
+    background-color: rgb(94, 166, 211);
     
 
 }
 .footer{
-    height: 300px;
+    height: 200px;
     width:100%;
-    background-color: #2B2825;
+    background-color: rgb(228, 64, 157);
 
 }
 .Section1{
@@ -96,7 +96,7 @@ html, body {
 }
 .nav{
     display: inline-block;
-    margin-left: 450px;
+    margin-left: 300px;
     
 }
 
@@ -138,76 +138,4 @@ li.Services {
   
   .dropdown:hover .dropdown-content {
     display: block;
-  }
-
-  .part1{
-    height: 300px;
-    width:25%;
-    background-color: #E88F2A ;
-    float:left;
-    margin-left: 5%;
-  }
-  
-  .part2{
-    height: 300px;
-    width:70%;
-    background-color: #2B2825;
-    float:left;
-
-  }
-  .one{
-    height:280;
-    width:94%;
-    margin-left:3%;
-    border:1px solid white;
-    margin-top: 10px;
-  }
-  .two{
-    height:200px;
-    width:25%;
-    border:1px solid white;
-    float:left;
-    margin-left: 6%;
-    margin-top: 5%;
-  }
-
-  .three{
-
-    height:200px;
-    width:28%;
-    border:1px solid white;
-    float:left;
-    margin-left: 2%;
-    margin-top: 5%;
-
-  }
-
-  .firsthalf{
-    height:150px;
-    width:100%;
-    background-color: #2B2825;
-  }
-  .secondhalf{
-    height:700px;
-    width:100%;
-    background-color:white;
-
-  }
-  .presentabout{
-    height:500px;
-    width:30%;
-    margin-top:50px;
-    background-image: url("Images/food5.jpg");
-    background-size: cover;
-    margin-left:5%;
-    float:left;
-   
-  }
-  .aboutcontent{
-    height:500px;
-    width:60%;
-    margin-top:100px;
-    margin-left: 4%;
-    float: left;
-
   }
